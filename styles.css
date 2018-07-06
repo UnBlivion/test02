@@ -3,3 +3,37 @@ body{
     margin: 0px;
     font-family: sans-serif;
 }
+
+header{
+    text-align: center;
+    margin: 0px;
+    padding: 1px;
+    background-color: rgb(255, 255, 0);
+    display: block;
+}
+
+.titulao{
+    color: black;
+    font-family: fantasy;
+}
+
+aside{
+    width: 300px;
+    left: 0px;
+    height: auto;
+    background-color: rgb(255, 255, 91);
+    border: 0px;
+    padding: 5px;
+    
+}
+
+.titulo{
+    text-align: center;
+    font-family: fantasy;
+}
+
+#dancingpotato{
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+}
